@@ -1,0 +1,41 @@
+---
+title: "Data Science Assignment"
+author: "RenHuai Huang"
+date: "December 10, 2015"
+output: html_document
+---
+
+### Data Science Specification
+
+* DS Course_01: The Data Scientist’s Toolbox  
+    + [My first repo](https://github.com/huangrenhuai/MyFirstrepo)  
+
+* DS Course_02: P Programing     
+    + [Programming assignment](https://github.com/huangrenhuai/ProgrammingAssignment2)  
+
+* DS Course_03: Getting and Cleaning Data   
+    + [Project assignment](https://github.com/huangrenhuai/ds03project)   
+
+* DS Course_04: Exploratory Data Analysis  
+    + [Project assignment: Plotting](https://github.com/huangrenhuai/ExData_Plotting1)   
+
+* DS Course_05: Reproducible Research  
+    + [Project assignment: Report by markdown ](https://huangrenhuai.github.io//RepData_PeerAssessment1/PA1_template.html)  
+    + [Github](https://github.com/huangrenhuai/RepData_PeerAssessment1)
+
+* DS Course_06: Statistical Inference
+    + [Assignment_01](https://huangrenhuai.github.io/DS06_Statistical_Inference_Project/ds06p3a.html)
+    + [Assignment_02](https://huangrenhuai.github.io/DS06_Statistical_Inference_Project/ds06p3b.html)
+    + [Github](https://github.com/huangrenhuai/DS06_Statistical_Inference_Project)
+    
+* DS Course_07: Regression Models    
+    + [Project assignment](https://huangrenhuai.github.io/ds07_Regression_Models_Project/dsp1w3.html)
+
+* DS Course_08: Practical Machine Learning   
+    + [Project assignment](https://huangrenhuai.github.io/ds08report/ds08project-sub-final.html)
+
+* DS Course_09: Developing Data Products    
+    + [Shiny project: "stockapp"](https://huangrh.shinyapps.io/stock)    
+    + [Slidify: Introduction of the stockapp](http://huangrenhuai.github.io/stockIntro/)   
+    + [Github: project](https://github.com/huangrenhuai/stock) 
+
