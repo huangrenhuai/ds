@@ -1,7 +1,7 @@
 
 # "Data Science Specification". 
 
-DS Course_01: The Data Scientist’s Toolbox github.com/huangrh/MyFirstrepo
+DS Course_01: The Data Scientist’s Toolbox [github.com/huangrh/MyFirstrepo]
 
 DS Course_02: P Programing <https://github.com/huangrh/ProgrammingAssignment2>
 
